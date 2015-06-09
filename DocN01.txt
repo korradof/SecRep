@@ -1,1 +1,5 @@
 Scrivo e modifico il documento
+
+
+Aggiungo dei pezzi
+ Non viene comunque sincronizzato
